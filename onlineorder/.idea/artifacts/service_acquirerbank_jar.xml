@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="service.acquirerbank:jar">
+    <output-path>$PROJECT_DIR$/out/</output-path>
+    <root id="archive" name="service.acquirerbank.jar">
+      <element id="module-output" name="service.acquirerbank" />
+      <element id="module-output" name="service.acquirerbank.api" />
+    </root>
+  </artifact>
+</component>

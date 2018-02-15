@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="service.ordering:jar">
+    <output-path>$PROJECT_DIR$/out/</output-path>
+    <root id="archive" name="service.ordering.jar">
+      <element id="module-output" name="service.ordering" />
+      <element id="module-output" name="service.paymentgateway.api" />
+      <element id="module-output" name="service.acquirerbank.api" />
+      <element id="module-output" name="service.notification" />
+      <element id="module-output" name="service.paymentgateway" />
+      <element id="module-output" name="service.acquirerbank" />
+    </root>
+  </artifact>
+</component>

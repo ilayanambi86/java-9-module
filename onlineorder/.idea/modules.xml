@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/sample.acquirerbank/sample.acquirerbank.iml" filepath="$PROJECT_DIR$/sample.acquirerbank/sample.acquirerbank.iml" group="sample" />
+      <module fileurl="file://$PROJECT_DIR$/sample.notification/sample.notification.iml" filepath="$PROJECT_DIR$/sample.notification/sample.notification.iml" group="sample" />
+      <module fileurl="file://$PROJECT_DIR$/sample.ordering/sample.ordering.iml" filepath="$PROJECT_DIR$/sample.ordering/sample.ordering.iml" group="sample" />
+      <module fileurl="file://$PROJECT_DIR$/sample.paymentgateway/sample.paymentgateway.iml" filepath="$PROJECT_DIR$/sample.paymentgateway/sample.paymentgateway.iml" group="sample" />
+      <module fileurl="file://$PROJECT_DIR$/service.acquirerbank/service.acquirerbank.iml" filepath="$PROJECT_DIR$/service.acquirerbank/service.acquirerbank.iml" group="service" />
+      <module fileurl="file://$PROJECT_DIR$/service.acquirerbank.api/service.acquirerbank.api.iml" filepath="$PROJECT_DIR$/service.acquirerbank.api/service.acquirerbank.api.iml" group="service" />
+      <module fileurl="file://$PROJECT_DIR$/service.notification/service.notification.iml" filepath="$PROJECT_DIR$/service.notification/service.notification.iml" group="service" />
+      <module fileurl="file://$PROJECT_DIR$/service.ordering/service.ordering.iml" filepath="$PROJECT_DIR$/service.ordering/service.ordering.iml" group="service" />
+      <module fileurl="file://$PROJECT_DIR$/service.paymentgateway/service.paymentgateway.iml" filepath="$PROJECT_DIR$/service.paymentgateway/service.paymentgateway.iml" group="service" />
+      <module fileurl="file://$PROJECT_DIR$/service.paymentgateway.api/service.paymentgateway.api.iml" filepath="$PROJECT_DIR$/service.paymentgateway.api/service.paymentgateway.api.iml" group="service" />
+    </modules>
+  </component>
+</project>
